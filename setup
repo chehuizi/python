@@ -1,0 +1,4 @@
+1. 安装模块
+easy_install
+pip
+注意：Python安装用户如果不是当前用户，例如：root，要切换到Python安装用户执行命令。
